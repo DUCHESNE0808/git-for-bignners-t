@@ -1,0 +1,2 @@
+d="abraham"
+print(d)
